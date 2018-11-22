@@ -1,7 +1,6 @@
 # Machine-Learning-Codes-from-Scratch
 
-* This repository contains codes I have implemented during my Machine Learning course CS6140
-* It contains different implementations of the following ML algorithms from scratch.
+* This repository contains different implementations of the following ML algorithms from scratch.
 * Raise issues or email me for any doubts
 * email id: badugu.n@husky.neu.edu
 
